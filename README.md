@@ -1,5 +1,7 @@
 # Obsidian Santa Cruz Theme
 
+This is an attempt at migrating the California Coast theme written by Matthew Meyers to the new Obsidian theme structure. Changes to the styling, UI, and imagery are also included.
+
 ## Screenshots
 
 <img src="https://github.com/mgmeyers/obsidian-california-coast-theme/raw/main/screenshots/01.png" alt="Screen Shot 1" />
